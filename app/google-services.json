@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891533788305",
+    "firebase_url": "https://csdlquanlynv-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "csdlquanlynv",
+    "storage_bucket": "csdlquanlynv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891533788305:android:b2748da304947bf5346b30",
+        "android_client_info": {
+          "package_name": "com.example.qlnv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0BxQOKAt9RiUvz6cE53fkOQsx-YODaPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
